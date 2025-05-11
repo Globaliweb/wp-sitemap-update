@@ -1,4 +1,3 @@
-You can run this once using a plugin like Code Snippets or add it temporarily to your theme’s functions.php.
 <?php
 add_action('init', function () {
     // Only run once and then comment this out
